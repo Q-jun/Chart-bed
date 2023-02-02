@@ -1,1 +1,2 @@
-
+在github上打开你的文件，点击右上角的Raw
+将https://raw.githubusercontent.com替换为http://raw.githack.com即可
