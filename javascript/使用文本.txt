@@ -1,2 +1,3 @@
-在github上打开你的文件，点击右上角的Raw
-将https://raw.githubusercontent.com替换为http://raw.githack.com即可
+格式为 cdn.jsdelivr.net/gh（gh就是GitHub缩写）+ GitHub用户名+仓库名@版本号（非必须）+目录+文件
+https://github.com/GitHub用户名/仓库名/blob/v1.0.7/jssdk.js
+https://cdn.jsdelivr.net/gh/GitHub用户名/仓库名@1.0.7/jssdk.js
