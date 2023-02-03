@@ -1,6 +1,6 @@
  $(function () {
       function get() {
-        $.get('https://api.vvhan.com/api/hotlist?type=wbHot', function (res) {
+        $.get('https://api.vvhan.com/api/wbhot', function (res) {
           var htmlStr = template('tpl-weibo', res)
           $('#container').html(htmlStr)
         })  
