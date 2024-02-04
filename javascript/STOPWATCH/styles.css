@@ -2,7 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: linear-gradient(135deg, #eef2f3, #8e9eab);
+  background-color: #d2d0ce;
 }
 
 #myH1 {
